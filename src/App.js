@@ -1,4 +1,3 @@
-import './App.scss';
 import pic from "./images/pic.jpg"
 import styled from 'styled-components'
 
